@@ -1,7 +1,8 @@
 # Shark-Tank-US---Looker-Studio
 Participated in Shark Tank US dataset challenge on Linkedin. As part of a challenge presented by Onyx Data, I took on the task of creating a dynamic and insightful dashboard.
 
-🌟Dashboard link - https://lnkd.in/gKYEV8NP
+🌟Dashboard link - [https://lnkd.in/gKYEV8NP](https://lookerstudio.google.com/reporting/87f0056e-352c-41a1-a8b4-a6aeac2aab2f/page/Rs5cD
+)
 
 📈I have done analysis season-wise and also have calculated the Top startups based on the highest investments.
 
